@@ -43,14 +43,14 @@ update node names (.e.g text below nodes) and workflow annotation.
 Along the way you will be creating parts of your appendix for the final project which outlines your findings explains how 
 you perform this classification problem.
 
-Setup
+### Setup
 
 Be sure to read “Workflow Overview: Building a Decision Tree in KNIME” before beginning this assignment. Start with the 
 sample decision tree workflow referred to in that reading. You will modify this workflow as you perform the tasks for this 
 assignment. NOTE: All the nodes you need for the workflow to complete this assignment is described in that reading. If you 
 need more review, check out this review page.
 
-Step 1: Data Preparation
+### Step 1: Data Preparation
 
 The first step is to read in the data and prepare it for modeling in KNIME. Below is an overview of the steps you will need 
 to take. Download and fill in this template (googledoc, word) as you complete these steps (the completed template will be 
@@ -84,7 +84,7 @@ later changed to platformType, count_hits and avg_price
 
     Remove nodes Scatter Plot and Interactive Table from the workflow. You will not need those nodes for this assignment. 
 
-Step 2: Data Partitioning and Modeling
+### Step 2: Data Partitioning and Modeling
 
 With the prepared data, you are now ready to create your model to predict whether a user is HighRoller or PennyPincher Next 
 you will be building a decision tree. Download and fill in this template (googledoc, word) as you complete these steps
@@ -103,7 +103,7 @@ you will be building a decision tree. Download and fill in this template (google
 
     Take a screenshot of your resulting decision tree.
 
-Step 3: Evaluation
+### Step 3: Evaluation
 
 Now that you have your model built and some results, you can assess your model’s performance. Download and fill in this 
 template (googledoc, word) as you complete these steps
@@ -115,7 +115,7 @@ template (googledoc, word) as you complete these steps
     Describe what the values in the confusion matrix mean. Be sure to indicate which things are correctly or incorrectly 
     predicted. 
 
-Step 4: Analysis Conclusions
+### Step 4: Analysis Conclusions
 
 Create a screenshot of your final KNIME workflow and draw some conclusions and make some recommendations. Download and fill 
 in this template (googledoc, word) to guide you.
